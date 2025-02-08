@@ -14,7 +14,7 @@ int main(){
 	if(max<z){
 		max=z;
 	}
-	printf("The largest muber is %d\n", max);
+	printf("The largest number is %d\n", max);
 	return 0;
 }
 
